@@ -1,0 +1,12 @@
+selector{
+    property: value;
+}
+p{
+    background-color: black white;
+}
+.banana{
+    background-color: blue;
+}
+#pagebody{
+    color: orange;
+}
